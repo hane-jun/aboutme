@@ -1,35 +1,19 @@
 ## Welcome! 👋
 
-I'm **Hane** and I'm glad you dropped by. I'm currently a **Senior Consultant @ IBM**, with past work experience in Tech, Sales, and Finance.
+I'm **Hane** and I'm glad you dropped by.
+Currently a **Senior Consultant @ IBM**, with past work experience in Tech, Sales, and Finance.
 
-### Markdown
+I'm always opened to meeting new people, and learning new things. Let's connect!
+You can find my LinkedIn [here](https://www.linkedin.com/in/hanejun/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Past Consulting Projects 💻
+
+I've been fortunate enough to have been involved in a wide array of projects! Ranging from the pharmaceutical industry to the automotive, it's given me the opportunity to expand my breadth of knowledge. Take a look to see what I've been involved with ✔️
 
 ```markdown
-Syntax highlighted code block
+Project 1
 
-# Header 1
-## Header 2
-### Header 3
+Project 2
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hane-jun/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
