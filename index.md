@@ -10,7 +10,8 @@ You can find my LinkedIn [here](https://www.linkedin.com/in/hanejun/).
 
 I've been fortunate enough to have been involved in a wide array of projects! Ranging from the consumer goods industry to the automotive, it's given me the opportunity to expand my breadth of knowledge. Take a look to see what I've been involved with ✔️
 
-**CONSUMER GOODS INDUSTRY CLIENT**
+**CONSUMER GOODS INDUSTRY CLIENT 🍔**
+
 _Role: Team Lead, Functional Consultant_
 
 - Completed implementation project typically taking 20 months in an accelerated timeline of 10 months
@@ -20,7 +21,8 @@ _Role: Team Lead, Functional Consultant_
 - Managed an international team of consultants, helping them to grow in their technical skillset
 - Planned and executed each project phase to successful completion (Design, Build, Testing, Go-Live)
 
-**TRANSPORTATION INDUSTRY CLIENT**
+**TRANSPORTATION INDUSTRY CLIENT ✈️**
+
 _Role: Support Lead, Functional Consultant_
 
 - Large scale project with Public funded transportation organization for an end to end implementation of a first of its kind hybrid SAP ERP and SuccessFactors Employee Central cloud-based system
