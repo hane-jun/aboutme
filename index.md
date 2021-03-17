@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome! 👋
 
-You can use the [editor on GitHub](https://github.com/hane-jun/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm **Hane** and I'm glad you dropped by. I'm currently a **Senior Consultant @ IBM**, with past work experience in Tech, Sales, and Finance.
 
 ### Markdown
 
