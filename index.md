@@ -10,7 +10,6 @@ You can find my LinkedIn [here](https://www.linkedin.com/in/hanejun/).
 
 I've been fortunate enough to have been involved in a wide array of projects! Ranging from the pharmaceutical industry to the automotive, it's given me the opportunity to expand my breadth of knowledge. Take a look to see what I've been involved with ✔️
 
-```markdown
 **CONSUMER GOODS INDUSTRY CLIENT**
 _Role: Team Lead, Functional Consultant_
 
@@ -22,6 +21,3 @@ _Role: Team Lead, Functional Consultant_
 - Planned and executed each project phase to successful completion (Design, Build, Testing, Go-Live)
 
 **Project 2**
-
-![Image](src)
-```
