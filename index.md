@@ -1,9 +1,10 @@
 # Welcome! 👋
 
 I'm **Hane** and I'm glad you dropped by.<br>
+
 Currently a **Senior Consultant @ IBM**, with past work experience in Tech, Sales, and Finance.<BR>
-My main superpower is the ability to empathize and understand the needs of my client/customer.<BR>
-Using this, I identify their key problems and build solutions that can bridge the gaps.
+My main superpower is the **ability to empathize and understand the needs of my client/customer**.<BR>
+Using this, I identify their key problems and build solutions that can **bridge the gaps**.
 
 I'm always opened to meeting new people, and learning new things. Let's connect!
 You can find my LinkedIn [here](https://www.linkedin.com/in/hanejun/).
