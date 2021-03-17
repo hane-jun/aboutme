@@ -2,7 +2,7 @@
 
 I'm **Hane** and I'm glad you dropped by.
 Currently a **Senior Consultant @ IBM**, with past work experience in Tech, Sales, and Finance.
-With 5+ years of experience in client-facing consulting and analytics, my main superpower is the ability to empathize and understand the needs of my client/customer.
+My main superpower is the ability to empathize and understand the needs of my client/customer.
 Using this, I identify their key problems and build solutions that can bridge the gaps.
 
 I'm always opened to meeting new people, and learning new things. Let's connect!
