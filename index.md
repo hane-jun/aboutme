@@ -21,7 +21,7 @@ _Role: Team Lead, Functional Consultant_
 - Managed an international team of consultants, helping them to grow in their technical skillset
 - Planned and executed each project phase to successful completion (Design, Build, Testing, Go-Live)
 
-Project 2
+**Project 2**
 
 ![Image](src)
 ```
