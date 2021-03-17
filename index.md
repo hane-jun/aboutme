@@ -1,4 +1,4 @@
-## Welcome! 👋
+# Welcome! 👋
 
 I'm **Hane** and I'm glad you dropped by.
 Currently a **Senior Consultant @ IBM**, with past work experience in Tech, Sales, and Finance.
@@ -8,7 +8,7 @@ You can find my LinkedIn [here](https://www.linkedin.com/in/hanejun/).
 
 ### Project Experience 💻
 
-I've been fortunate enough to have been involved in a wide array of projects! Ranging from the consumer goods industry to the automotive, it's given me the opportunity to expand my breadth of knowledge. Take a look to see what I've been involved with ✔️
+I've been fortunate enough to have been involved in a wide array of projects! Ranging from the **consumer goods industry to the automotive**, it's given me the opportunity to expand my breadth of knowledge. **Take a look to see what I've been involved with** ✔️!
 
 **CONSUMER GOODS INDUSTRY CLIENT 🍔**
 
@@ -33,20 +33,23 @@ _Role: Support Lead, Functional Consultant_
 - Acted as Subject Matter Expert in analytics for payroll compare, providing crucial guidance to client
 - Supported business users through hyper care for incident resolution and provide additional training
 
-**MINING INDUSTRY CLIENT**
+**MINING INDUSTRY CLIENT ⛏️**
+
 _Role: Data Migration Lead_
 
 - Led the data migration (extraction/transformation/load) for North America and Latin America
 - Planned and led workshops with client team to document client business needs into functional specifications and configuration workbooks
 - Managed all data-related defects, excelling in identifying root cause and delegating/resolving correctly
 
-**PHARMACEUTICAL INDUSTRY CLIENT**
+**PHARMACEUTICAL INDUSTRY CLIENT 💊**
+
 _Role: Project Management Consultant_
 
 - Conducted analysis of budget allocation towards project timeline and available resources/head count
 - Review business process documents (BPD) for each module, and ensure each process is catalogued
 
-**AUTOMOTIVE INDUSTRY CLIENT**
+**AUTOMOTIVE INDUSTRY CLIENT 🚗**
+
 _Role: Project Management Consultant_
 
 - Managed and provided content for client leadership meetings and leading daily Stand-Ups for workstream
