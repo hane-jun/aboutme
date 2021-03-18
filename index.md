@@ -1,4 +1,4 @@
-# Welcome! 👋
+# Welcome! 👋 #
 
 I'm **Hane** and I'm glad you dropped by.<br>
 
@@ -9,11 +9,13 @@ My main superpower is the **ability to empathize and understand the needs of my 
 I'm always opened to meeting new people, and learning new things. Let's connect!
 You can find my LinkedIn [here](https://www.linkedin.com/in/hanejun/).
 
-## Project Experience 💻
+## Project Experience 💻 ##
 
 I've been fortunate enough to have been involved in a wide array of projects! Ranging from the **consumer goods industry to the automotive**, it's given me the opportunity to expand my breadth of knowledge. **Take a look to see what I've been involved with** ✔️!
 
-### CONSUMER GOODS INDUSTRY CLIENT 🍔 ###
+### Listed: Most Recent to Oldest ###
+
+**CONSUMER GOODS INDUSTRY CLIENT 🍔**<BR>
 _Role: Team Lead, Functional Consultant_
 
 - Completed implementation project typically taking 20 months in an accelerated timeline of 10 months
@@ -22,7 +24,7 @@ _Role: Team Lead, Functional Consultant_
 - Utilized SAP relational databases and data analysis to help clients migrate from a legacy system (50+ years) into a new hybrid cloud/on-prem solution that will ensure automation and more precise results
 - Managed an international team of consultants, helping them to grow in their technical skillset
 
-**TRANSPORTATION INDUSTRY CLIENT ✈️**
+**TRANSPORTATION INDUSTRY CLIENT ✈️**<BR>
 _Role: Support Lead, Functional Consultant_
 
 - Large scale project with Public funded transportation organization for an end to end implementation of a first of its kind hybrid SAP ERP and SuccessFactors Employee Central cloud-based system
