@@ -1,4 +1,4 @@
-# Welcome! 👋 #
+# Welcome! 👋 
 
 I'm **Hane** and I'm glad you dropped by.<br>
 
