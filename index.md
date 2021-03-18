@@ -11,7 +11,7 @@ You can find my LinkedIn [here](https://www.linkedin.com/in/hanejun/).
 
 ## Project Experience 💻 ##
 
-I've been fortunate enough to have been involved in a wide array of projects! Ranging from the **consumer goods industry to the automotive**, it's given me the opportunity to expand my breadth of knowledge. **Take a look to see what I've been involved with** ✔️!
+I've been fortunate enough to have been involved in a wide array of projects! Ranging from the **consumer goods industry to the automotive**, it's given me the opportunity to expand my breadth of knowledge. **Keep scrolling** to see what I've been involved with ✔️!
 
 ### Listed: Most Recent to Oldest ###
 
