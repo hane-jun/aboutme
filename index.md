@@ -28,6 +28,7 @@ _Role: Team Lead, Functional Consultant_
 _Role: Support Lead, Functional Consultant_
 
 - Large scale project with Public funded transportation organization for an end to end implementation of a first of its kind hybrid SAP ERP and SuccessFactors Employee Central cloud-based system
+- System database transformation which impacts 15000+ employees across Canada
 - Acted as a functional payroll consultant during the implementation phase and succeeded as the Support Lead after go-live, leading a global support team and working with Center of Excellence counterparts
 - Managed workshops to document client requirements and collaboratively design an optimized system
 - Completed data validation for all stages of the project as required in the SAP/SuccessFactors systems
@@ -38,15 +39,12 @@ _Role: Support Lead, Functional Consultant_
 **MINING INDUSTRY CLIENT ⛏️**<BR>
 _Role: Data Migration Lead_
 
+- Successfully launched a global compensation program, implemented Employee Central, Onboarding, Employee Central Payroll, Employee Central Time Management (by Workforce Software), Learning Management, and revamped existing functions such as Recruitment, Succession and Performance and Goals
+- 2900+ Business Users implementation project, spanning multiple countries and four mining sites across the globe
+- Executed an accelerated timeline of 15 months (extremely aggressive timeline for the objectives outlined), coinciding three go-lives in this time frame
 - Led the data migration (extraction/transformation/load) for North America and Latin America
 - Planned and led workshops with client team to document client business needs into functional specifications and configuration workbooks
 - Managed all data-related defects, excelling in identifying root cause and delegating/resolving correctly
-
-**PHARMACEUTICAL INDUSTRY CLIENT 💊**<BR>
-_Role: Project Management Consultant_
-
-- Conducted analysis of budget allocation towards project timeline and available resources/head count
-- Review business process documents (BPD) for each module, and ensure each process is catalogued
 
 **AUTOMOTIVE INDUSTRY CLIENT 🚗**<BR>
 _Role: Project Management Consultant_
@@ -54,3 +52,5 @@ _Role: Project Management Consultant_
 - Managed and provided content for client leadership meetings and leading daily Stand-Ups for workstream
 - Conducts daily analysis using BI Tools to synthesize large, complex data sets for senior management to help optimize resources and appropriately allocate funds
 - Designed customization request from client while provided detailed instructions to off-shore testers
+- Review business process documents (BPD) for each module, and ensure each process is catalogued
+- Conducted analysis of budget allocation towards project timeline and available resources/head count
