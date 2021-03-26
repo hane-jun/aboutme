@@ -1,4 +1,8 @@
 title: Minimal theme
 logo: /assets/img/logo.png
-description: Hi! Test Edit this when you are ready
 theme: jekyll-theme-minimal
+description: >
+··Hello, test description \n
+··with some "quotes" of various 'types',\n
+··and also a blank line:\n
+··\n
